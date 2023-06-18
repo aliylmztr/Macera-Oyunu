@@ -17,7 +17,7 @@ public class ToolStore extends NormalLoc {
         }
         System.out.println("🛡️🛡️🛡️🛡️🛡️🛡️🛡️ Zırhlar 🛡️🛡️🛡️🛡️🛡️🛡️🛡️");
         for (Armor armor : armorList) {
-            System.out.println("Zırh adı 🛡️ :" + armor.getName() + "\n" + "ID 🆔 : " + armor.getId() + "\n" + "Zırh Bloklaması 🛡️ : " + armor.getBlock() + "\n" + "Para 💵 : " + armor.getMoney());
+            System.out.println("Zırh adı 🛡️ : " + armor.getName() + "\n" + "ID 🆔 : " + armor.getId() + "\n" + "Zırh Bloklaması 🛡️ : " + armor.getBlock() + "\n" + "Para 💵 : " + armor.getMoney());
         }
     }
 
