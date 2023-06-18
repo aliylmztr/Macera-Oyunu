@@ -75,5 +75,4 @@ public abstract class Character {
     public void setWeapon(String weapon) {
         this.weapon = weapon;
     }
-
 }
