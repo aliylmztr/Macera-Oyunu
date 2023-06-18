@@ -52,11 +52,11 @@ MEKANLAR
 
 ----------------------------------------------
 
->> Güvenli Ev <<
+>> Güvenli Ev
 
 Özellik : Can Yenileniyor
 
->> Mağara <<
+>> Mağara
 
 Canavar : Zombi (1-3 Adet)
 
@@ -64,7 +64,7 @@ Canavar : Zombi (1-3 Adet)
 
 Eşya : Yemek (Food)
 
->> Orman <<
+>> Orman
 
 Canavar : Vampir (1-3 Adet)
 
@@ -72,7 +72,7 @@ Canavar : Vampir (1-3 Adet)
 
 Eşya : Odun (Firewood)
 
->> Nehir <<
+>> Nehir
 
 Canavar : Ayı (1-3 Adet)
 
@@ -80,7 +80,7 @@ Canavar : Ayı (1-3 Adet)
 
 Eşya : Su (Water)
 
->> Mağaza <<
+>> Mağaza
  
 Özellik : Destekleyici Eşyalar Satın Almak
 
@@ -104,7 +104,7 @@ Sınıf Diyagramı
 
 1- Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten sonra bölgeye özel ödülü oyunucun envanterine eklenmelidir. Eğer oyuncu tüm ödülleri toplayıp "Güvenli Eve" dönebilirse oyunu kazanır. Ayrıca ödül kazanılan bölgeye tekrar giriş yapılamaz.
 
->> Bölge Ödülleri <<
+>> Bölge Ödülleri
 
 Mağara => Yemek (Food)
 
